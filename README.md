@@ -27,9 +27,7 @@
 
 - **My Stack**:
 
-<img alt="React Badge" src="https://img.shields.io/badge/React_js-blue">
-![Logo](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) JavaScript
-<p>React.js</p>
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 <p>React-Redux</p>
 <p>Express</p>
 <p>PostgreSQL</p>
