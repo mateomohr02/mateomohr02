@@ -12,9 +12,9 @@
 
 <br>
 
-- A passionate Full-Stack developer
-- Currently learning Web Development at Henry
-- I’m currently open for an Intern or a new job opportunity
+I'm a fullstack developer based in Córdoba, Argentina. 🇦🇷
+
+Currently studing Web Development at Henry Bootcamp. 🚀
 
 <br>
 
