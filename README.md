@@ -28,14 +28,14 @@
 - **My Stack**:
 
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Express](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <br>   
 
 - **Softwares and Tools**:
-![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
