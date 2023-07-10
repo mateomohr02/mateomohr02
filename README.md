@@ -27,7 +27,7 @@
 
 - **My Stack**:
 
-![React]((https://img.shields.io/badge/react-blue)
+![React]((https://img.shields.io/badge/react)
   
 
 <br>   
