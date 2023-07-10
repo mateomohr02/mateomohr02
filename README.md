@@ -26,7 +26,8 @@
 <p align="center">
 
 - **My Stack**:
-https://img.shields.io/badge/React_js-blue
+
+<img alt="React Badge" src="https://img.shields.io/badge/React_js-blue">
 
 <p>React.js</p>
 <p>React-Redux</p>
