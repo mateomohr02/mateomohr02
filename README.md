@@ -26,7 +26,8 @@
 <p align="center">
 
 - **My Stack**:
-    
+
+![React]((https://img.shields.io/badge/react-blue)
   
 
 <br>   
