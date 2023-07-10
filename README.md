@@ -12,7 +12,7 @@
 
 <br>
 
-I'm a fullstack developer based in Córdoba, Argentina. 🇦🇷
+I'm a fullstack developer based in Córdoba, Argentina.:argentina:
 
 Currently studing Web Development at Henry Bootcamp. 🚀
 
