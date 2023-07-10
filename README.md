@@ -26,14 +26,18 @@
 <p align="center">
 
 - **My Stack**:
+https://img.shields.io/badge/React_js-blue
 
-![React]((https://img.shields.io/badge/react)
-  
+<p>React.js</p>
+<p>React-Redux</p>
+<p>Express</p>
+<p>PostgreSQL</p>
+<p>Tailwind CSS</p>
 
 <br>   
 
 - **Softwares and Tools**:
-
+	
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
