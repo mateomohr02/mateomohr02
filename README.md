@@ -14,7 +14,7 @@
 
 I'm a fullstack developer based in Córdoba, Argentina.🌎
 
-Currently studing Web Development at Henry Bootcamp. 🚀
+Currently studing Web Development at Henry Bootcamp.🚀
 
 <br>
 
@@ -46,12 +46,7 @@ Currently studing Web Development at Henry Bootcamp. 🚀
 
 </p>
 
-<br>
-
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
 
 <ul>
