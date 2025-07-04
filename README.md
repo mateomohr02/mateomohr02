@@ -20,7 +20,7 @@ Currently studing Web Development at Universidad Nacional del Litoral.🚀
 <p align="center">
 
 - **My Stack**:
-[![Next](https://img.shields.io/badge/-Next-Black?style=for-the-badge&logo=next&logoColor=white)](https://nextjs.org/)
+[![Nextjs](https://img.shields.io/badge/-Next-Black?style=for-the-badge&logo=next&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Express](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
