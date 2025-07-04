@@ -9,9 +9,9 @@
 
 <br>
 
-I'm a fullstack developer based in Córdoba, Argentina.🌎
+I'm a fullstack developer based in Entre Ríos, Argentina.🌎
 
-Currently studing Web Development at Henry Bootcamp.🚀
+Currently studing Web Development at Universidad Nacional del Litoral.🚀
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -20,7 +20,7 @@ Currently studing Web Development at Henry Bootcamp.🚀
 <p align="center">
 
 - **My Stack**:
-
+[![Next](https://img.shields.io/badge/-Next-White?style=for-the-badge&logo=next&logoColor=black)](https://reactjs.org/)
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Express](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
